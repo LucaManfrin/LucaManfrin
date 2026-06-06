@@ -3,30 +3,25 @@
   <br>
   <br>
   <img src="/images/glitch" alt="Glitch" />
-    <strong>My Name is Luca and I like Cyber Security</strong>
-
+  <strong>My Name is Luca and I like Cyber Security</strong>
   <br>
   <br>
+</div>
 
-  </div>
-
-  <!-- Social -->
-
+<!-- Social -->
+<div align="left">
   <a href="https://lucamanfrin.it">
   <strong>Visit my personal website </strong>
   <br>
-  <img alt="Globe" src="/images/working.gif" />
   </a>
+  <img src="/images/working.gif" alt="Globe" />
+</div>
 
 
   <!-- Footer -->
 
-  <div align="center">
-
-
-
+<div align="center">
   <img src="/images/notepad.gif" alt="Site created with Notepad" height="30" />
-  <!-- "margin-right: whatever;" -->
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 </div>
