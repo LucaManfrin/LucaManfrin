@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/welcome-fire.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="/images/welcome-fire.gif" alt="Welcome to my Github Profile" />
   <br>
   <br>
   <img src="/images/glitch.gif" alt="Glitch" />
