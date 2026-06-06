@@ -1,10 +1,12 @@
 <div align="center">
   <img src="/images/welcome-fire.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Luca and I like Cyber Security" />
-  <br />
-  <br />
+  <br>
+  <br>
+  <img src="/images/glitch" alt="Glitch" />
+    <strong>My Name is Luca and I like Cyber Security</strong>
+
+  <br>
+  <br>
 
   </div>
 
@@ -12,7 +14,8 @@
 
   <a href="https://lucamanfrin.it">
   <strong>Visit my personal website </strong>
-  <img alt="Globe" height="80" src="/images/working.gif">
+  <br>
+  <img alt="Globe" src="/images/working.gif" />
   </a>
 
 
