@@ -8,15 +8,15 @@
 
 [![pgp](https://img.shields.io/badge/pgp-on__request-313131?style=flat&labelColor=545454)](mailto:test)
 [![site](https://img.shields.io/badge/site-lucamanfrin.it-313131?style=flat&labelColor=545454)](https://lucamanfrin.it)
-[![views](https://komarev.com/ghpvc/?username=your-handle&style=flat&color=313131&label=profile+views&abbreviated=true)](https://github.com/your-handle)
+[![views](https://komarev.com/ghpvc/?username=LucaManfrin&style=flat&color=313131&label=profile+views&abbreviated=true)](https://github.com/LucaManfrin)
 
 ---
 
 #### ⚡ Stats
 
-I joined GitHub **?** years ago and have since pushed **?** commits, opened **?** issues, submitted **?** pull requests, and earned **?** stars across **?** personal repositories, with contributions to **?** public projects.
+I joined GitHub **5** years ago and have since pushed **122** commits, opened **0** issues, submitted **0** pull requests, and earned **0** stars across **13** personal repositories, with contributions to **0** public projects.
 
-Current commit streak: **?** days.
+Current commit streak: **1** days.
 
 ---
 
@@ -66,12 +66,12 @@ Current commit streak: **?** days.
 #### 📊 Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&hide_border=true&count_private=true&theme=transparent&icon_color=5b8fb9&text_color=8aa2c0&title_color=5b8fb9">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&hide_border=true&count_private=true&title_color=1f2a44&icon_color=1f2a44" height="160">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LucaManfrin&show_icons=true&hide_border=true&count_private=true&theme=transparent&icon_color=5b8fb9&text_color=8aa2c0&title_color=5b8fb9">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaManfrin&show_icons=true&hide_border=true&count_private=true&title_color=1f2a44&icon_color=1f2a44" height="160">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&hide_border=true&theme=transparent&text_color=8aa2c0&title_color=5b8fb9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&hide_border=true&title_color=1f2a44" height="160">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaManfrin&layout=compact&hide_border=true&theme=transparent&text_color=8aa2c0&title_color=5b8fb9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaManfrin&layout=compact&hide_border=true&title_color=1f2a44" height="160">
 </picture>
 
 ---
@@ -85,7 +85,7 @@ _No feed configured yet — set `BLOG_RSS_URL` in the workflow to pull posts fro
 #### 🕒 Recent activity
 
 <!--START_SECTION:activity-->
-_Activity temporarily unavailable._
+- Created [`LucaManfrin/LucaManfrin`](https://github.com/LucaManfrin/LucaManfrin)
 <!--END_SECTION:activity-->
 
 ---
