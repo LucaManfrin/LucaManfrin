@@ -1,0 +1,40 @@
+name: Build README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  push:
+    branches: [main, master]
+    paths:
+      - TEMPLATE.md
+      - scripts/build_readme.py
+      - .github/workflows/readme.yml
+  workflow_dispatch:          # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: pull your latest posts. Uncomment and set your feed URL.
+          # BLOG_RSS_URL: https://lucamanfrin.it/rss.xml
+        run: python scripts/build_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh README"
+          file_pattern: README.md
