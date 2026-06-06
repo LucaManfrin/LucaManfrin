@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="/images/welcome-fire.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="/images/welcome-fire.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br>
   <br>
-  <img src="/images/glitch" alt="Glitch" />
+  <img src="/images/glitch.gif" alt="Glitch" />
   <strong>My Name is Luca and I like Cyber Security</strong>
   <br>
   <br>
