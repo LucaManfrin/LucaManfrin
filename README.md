@@ -1,8 +1,8 @@
 <div align="center">
   <img src="/images/welcome-fire.gif" alt="Welcome to my Github Profile" align="center">
 </div>
-<p>I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨</p>
 <p align="center">
+    <p>I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨</p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
     <a href="http://lucamanfrin.it" target="_blank">
-        <img src="/images/logo_radar"/>
+        <img src="/images/logo_radar.jpg"/>
     </a>
 </p>
 <h2 id="about-me-">About Me 📌</h2>
@@ -41,10 +41,11 @@
 <hr/>
 <p align="center">
     <i>Incident response plan started:</i>
+    <br>
     <img src="/images/working.gif"/><br/>
     <br>
     <br>
     <a href="https://lucamanfrin.it" target="_blank" rel="noopener noreferrer">
-      <img src="/images/logo_radar.jpg" alt="Website logo">
+      <img src="/images/logo_radar.jpg" alt="Website logo" width="30%" heigth="30%">
     </a>
 </p>
