@@ -1,7 +1,15 @@
 <div align="center">
   <img src="/images/welcome-fire.gif" alt="Welcome to my Github Profile" align="center">
 </div>
-<p align="center"><strong>I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨</strong></p>
+<p align="center">
+    <strong>
+      I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨
+      <a href="http://lucamanfrin.it" target="_blank">
+        <img src="/images/logo_radar.jpg" width="3.5%" heigth="3.5%"/>
+      </a>
+</p>
+  </strong>
+</p>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -11,11 +19,6 @@
     <img src="https://img.shields.io/badge/-Elastic-%23005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic">
 </p>
 <br>
-<p align="center">
-    <a href="http://lucamanfrin.it" target="_blank">
-        <img src="/images/logo_radar.jpg" width="5%" heigth="5%"/>
-    </a>
-</p>
 <h2 id="about-me-">About Me 📌</h2>
 <ul>
     <li>🇮🇹 I&#39;m from Italy</li>
@@ -49,9 +52,9 @@
     <br>
     <br>
 </p>
-<p align="center">
-    <h1><strong>Visit my website</strong></h1>
-    <a href="https://lucamanfrin.it" target="_blank" rel="noopener noreferrer">
-      <img src="/images/logo_radar.jpg" alt="Website logo" width="30%" heigth="30%" align="center">
+<div align="center">
+  <h1>Visit my website</h1>
+    <a href="https://lucamanfrin.it">
+      <img src="/images/logo_radar.jpg" alt="Website logo" width="30%">
     </a>
-</p>
+</div>
