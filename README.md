@@ -5,7 +5,7 @@
     <strong>
       I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨
       <a href="http://lucamanfrin.it" target="_blank">
-        <img src="/images/logo_radar.jpg" width="3.5%" heigth="3.5%"/>
+        <img src="/images/logo_radar.jpg" width="3%" heigth="3%"/>
       </a>
 </p>
   </strong>
