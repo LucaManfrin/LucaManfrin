@@ -3,11 +3,10 @@
 </div>
 <p align="center">
     <strong>
-      I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨
       <a href="http://lucamanfrin.it" target="_blank">
         <img src="/images/logo_radar1.jpg" width="1.7%" heigth="1.7%"/>
       </a>
-</p>
+      I&#39;m a passionate Cyber Security Specialist with a strong interest in Incident Response activities. 🧙🏼🪐👁‍🗨
   </strong>
 </p>
 <br>
