@@ -20,22 +20,22 @@
 <ul>
     <li>🇮🇹 I&#39;m from Italy</li>
     <li>🎓 I&#39;m graduated in  <strong>System and Network Security</strong>.</li>
-    <li>🚀 Currently, I&#39;m working as a <strong>cyber Security Specialist</strong>.</li>
+    <li>🚀 Currently, I&#39;m working as a <strong>Cyber Security Specialist</strong>.</li>
     <li>🎯 I plan to improve also my Red Team skills.</li>
     <li>🌱 I&#39;m constantly learning and improving my skills.</li>
 </ul>
 <h2 id="certifications-">Certifications 🏅</h2>
 <ul>
-    <li><strong>CCL2 - Certified Cyber Defender"</strong>by CyberDefender</li>
-    <li><strong>PWFA - Practical Windows Forensics Analyst</strong>by Bluecapesecurity</li>
-    <li><strong>SC200 - Microsoft Security Operations Analyst Associate</strong>by Microsoft</li>
-    <li><strong>BTL1 - Blue team Lab 1</strong>by BlueTeam</li>
-    <li><strong>SAL1 - Security Analyst Level 1</strong>by TryHackMe</li>
+    <li><strong>CCL2 - Certified Cyber Defender</strong> - by CyberDefender</li>
+    <li><strong>PWFA - Practical Windows Forensics Analyst</strong> - by Bluecapesecurity</li>
+    <li><strong>SC200 - Microsoft Security Operations Analyst Associate</strong> - by Microsoft</li>
+    <li><strong>BTL1 - Blue team Lab 1</strong> - by BlueTeam</li>
+    <li><strong>SAL1 - Security Analyst Level 1</strong> - by TryHackMe</li>
 </ul>
 <h2 id="skills-">Skills 💻</h2>
 <ul>
     <li>Digital Forensics and Incident Response</li>
-    <li>Detection, Containment and Eradication of attaccker in Major Incidents</li>
+    <li>Detection, Containment and Eradication of attacker in Major Incidents</li>
     <li>Malware Triage & Analysis</li>
     <li>Threat Intelligence & Threat Hunting</li>
     <li>Project Management</li>
@@ -44,9 +44,12 @@
 <p align="center">
     <i>Incident response plan started:</i>
     <br>
+    <br>
     <img src="/images/working.gif"/><br/>
     <br>
     <br>
+</p>
+<p align="center">
     <h1><strong>Visit my website</strong></h1>
     <a href="https://lucamanfrin.it" target="_blank" rel="noopener noreferrer">
       <img src="/images/logo_radar.jpg" alt="Website logo" width="30%" heigth="30%" align="center">
