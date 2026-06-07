@@ -49,7 +49,7 @@
     <br>
 </p>
 <div align="center">
-  <h1>Visit my website</h1>
+  <h1>Click here to visit my website👇</h1>
     <a href="https://lucamanfrin.it">
       <img src="/images/logo_radar1.jpg" alt="Website logo" width="30%">
     </a>
