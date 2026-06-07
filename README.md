@@ -19,8 +19,8 @@
 <ul>
     <li>🇮🇹 I&#39;m from Italy</li>
     <li>🎓 I&#39;m graduated in  <strong>System and Network Security</strong>.</li>
-    <li>🚀 Currently, I&#39;m working as a <strong>Cyber Security Specialist</strong>.</li>
-    <li>🎯 I plan to improve also my Red Team skills.</li>
+    <li>🚀 Currentl working as a <strong>Cyber Security Specialist</strong>.</li>
+    <li>🎯 I plan to improve my Red Team skills.</li>
     <li>🌱 I&#39;m constantly learning and improving my skills.</li>
 </ul>
 <h2 id="certifications-">Certifications 🏅</h2>
